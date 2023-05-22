@@ -28,7 +28,7 @@ Part2 - Running HelloWorld using docker
 ##### ![00](https://github.com/jayashree-learnings/Docker/blob/main/00_includes/d05/00_fileStucture.PNG)  
 
 2) verify the contents using cat command
-##### ![05]https://github.com/jayashree-learnings/Docker/blob/main/00_includes/d05/05_Dockerfile.PNG)  
+##### ![05](https://github.com/jayashree-learnings/Docker/blob/main/00_includes/d05/05_Dockerfile.PNG)  
 
 3) build image using 
      docker build -t test-helloworld:01 .  
