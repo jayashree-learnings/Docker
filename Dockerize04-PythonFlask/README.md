@@ -27,7 +27,7 @@ using pycharm as the IDE, a basic python flask application is created in the loc
 ##### ![03c](https://github.com/jayashree-learnings/Docker/blob/main/00_includes/d04/03c_Dockerfile.PNG)  
  
 
-4) Build and run the image .While running the image map, the localhost port number to the container port number address.
+4) Install docker desktop in the local machine. Build and run the image .While running the image map, the localhost port number to the container port number address.
 ##### ![04a](https://github.com/jayashree-learnings/Docker/blob/main/00_includes/d04/04a_buildImage.PNG)
 ##### ![04b](https://github.com/jayashree-learnings/Docker/blob/main/00_includes/d04/04b_runImage.PNG)
 
