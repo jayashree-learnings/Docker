@@ -13,7 +13,7 @@ In this exercise, the alpine distro version of 'play with docker' is used as the
 3) navigate to it and create helloWorld.py file using vim command.  
 
 4) Execute the program using 'python3 helloWorld.py'. It displays the print statements
-##### ![02]https://github.com/jayashree-learnings/Docker/blob/main/00_includes/d02/02_localHostProjExecution.PNG)
+##### ![02](https://github.com/jayashree-learnings/Docker/blob/main/00_includes/d02/02_localHostProjExecution.PNG)
 
 2)part2- dockerizing python script
 
@@ -33,8 +33,8 @@ In this exercise, the alpine distro version of 'play with docker' is used as the
 6) The output of the two print statements is displayed  
 
 7) check the containers using 
-    docker ps -a 
-    docker ps -q
+    'docker ps -a or 
+    docker ps -q'
 We can see that container  has exited immediately after the execution of the program
 ##### ![05](https://github.com/jayashree-learnings/Docker/blob/main/00_includes/d02/05_runImage.PNG)  
 
@@ -44,7 +44,7 @@ We can see that container  has exited immediately after the execution of the pro
 9) build a new image with the tag 02 meaning its the second version.  
 
 10) run the image and we can see the modified ouput of the python parogram.
-##### ![07]https://github.com/jayashree-learnings/Docker/blob/main/00_includes/d02/07_newContainer.PNG)
+##### ![07](https://github.com/jayashree-learnings/Docker/blob/main/00_includes/d02/07_newContainer.PNG)
 
 
 
