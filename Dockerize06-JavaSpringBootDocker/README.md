@@ -25,7 +25,7 @@ In this exercise, the community edition of 'intellij IDEA' ide is used to build 
 
 4) In the command prompt of the local machine(Windows OS), run the commands to build the image and run it to create a container.While running the image, map an appropriate localhost-portnumber(eg-8002) to the default container prt number of 8080.
 ##### ![05](https://github.com/jayashree-learnings/Docker/blob/main/00_includes/d06/05_buildAndListImage.PNG)
-##### ![06]https://github.com/jayashree-learnings/Docker/blob/main/00_includes/d06/06_runImageAndPortMapping.PNG)  
+##### ![06](https://github.com/jayashree-learnings/Docker/blob/main/00_includes/d06/06_runImageAndPortMapping.PNG)  
 
 5) In the  browser, give the url as localhost:8002/welcome because that is the port number which is now mapped to our local system.
 ##### ![07](https://github.com/jayashree-learnings/Docker/blob/main/00_includes/d06/07_portmapping.PNG)
