@@ -1,8 +1,8 @@
 ### Dockerize apache2 php image  
 
-In this exercise, the alpine distro version of 'play with docker' is used as the linux flavour.In the first step, apache2 and php are installed in the local host and tested successfully. In the second step, it is dockerized and tested.
+In this exercise, the alpine distro version of 'play with docker' is used as the linux flavour.In the first step, apache2 and php are installed in the 'play with docker' host and tested successfully. In the second step, it is dockerized and tested.
 
-1)part1- Testing in localhost
+1)part1- Testing in 'play with docker' host
 1) update and upgrade apk packages
 2) install php8-apache2 and apache2 on alpine linux (play with docker) and verify that its up and running.
 3) create info.php and index3.html in /var/www/localhost/htdocs and verify that the webpages can be accessed. 
