@@ -1,1 +1,2 @@
 # Docker
+This repo contains some of the exercises which I have done as a part of my self-studies in understanding the docker. In some cases to test basic python and java scripts, the 'play with docker' is used which already has docker inbulit into it and hence doesnot require installations regarding the same. To dockerize python-flask and java-spring boot application, the relevant IDEs are used and docker desktop i insatlled in the local machine.
