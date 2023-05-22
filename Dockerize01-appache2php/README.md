@@ -20,7 +20,7 @@ In this exercise, the alpine distro version of 'play with docker' is used as the
 ##### ![04](https://github.com/jayashree-learnings/Docker/blob/main/00_includes/d01/04_Dockerfile.PNG)  
 
 8) build the image
-##### ![05]https://github.com/jayashree-learnings/Docker/blob/main/00_includes/d01/05_buildimage.PNG)  
+##### ![05](https://github.com/jayashree-learnings/Docker/blob/main/00_includes/d01/05_buildimage.PNG)  
 
 9) run the image by configuring the appropriate ports(here the port 80 in the container is mapped to port 85 of play with docker)
 ##### ![06](https://github.com/jayashree-learnings/Docker/blob/main/00_includes/d01/06_runImageatPort85.PNG)  
